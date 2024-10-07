@@ -1,0 +1,152 @@
+/* rest */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 80%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+/* nav box */
+.nav-box {
+    display: flex;
+    justify-content: space-between;
+    background-color: #daa520;
+}
+
+.bk-nav {
+    background-color: #add8e6;
+    padding: 10px 0;
+}
+
+/* 1st-box */
+.center-box {
+    background-color: #00008b;
+    padding: 10px 0;
+}
+
+.box {
+    display: flex;
+    justify-content: space-between;
+    background-color: #ee82ee;
+    min-height: 300px;
+}
+
+.container-box {
+    width: 60%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+/* white-boxe */
+.w-bk-boxes {
+    background-color: #ffffff;
+    padding: 10px 0;
+}
+
+.w-boxes {
+    background-color: #daa520;
+    min-height: 300px;
+}
+
+.row {
+    display: flex;
+    min-height: 300px;
+}
+
+.col-70 {
+    background-color: #1e90ff;
+    width: 70%;
+}
+
+.col-30 {
+    background-color: #ffc0cb;
+    width: 30%;
+}
+
+/* grey-boxe */
+.g-bk-boxes {
+    background-color: #d3d3d3;
+    padding: 10px 0;
+}
+
+.g-boxes {
+    background-color: #daa520;
+    min-height: 300px;
+}
+
+.g-row {
+    display: flex;
+    min-height: 300px;
+}
+
+.g-col-70 {
+    background-color: #1e90ff;
+    width: 70%;
+}
+
+.g-col-30 {
+    background-color: #ffc0cb;
+    width: 30%;
+}
+/* green box */
+.gr-center-box {
+    background-color: #d3d3d3;
+    padding: 10px 0;
+}
+
+.gr-box {
+    display: flex;
+    justify-content: space-between;
+    background-color: #228b22;
+    min-height: 500px;
+}
+/* footer top */
+.footer-bk-boxes {
+    background-color: #23272a;
+    padding: 10px 0;
+}
+
+.footer-boxes {
+    background-color: #daa520;
+    min-height: 300px;
+}
+
+.row {
+    display: flex;
+    min-height: 300px;
+}
+
+.col-40 {
+    background-color: #f08080;
+    width: 40%;
+}
+
+.col-15 {
+    background-color: #20b2aa;
+    width: 15%;
+}
+/* footer bot */
+.footer-bot-boxes {
+    display: flex;
+    justify-content: space-between;
+    background-color: #7fffd4;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.logo{
+    background-color: #ffb6c1;
+}
